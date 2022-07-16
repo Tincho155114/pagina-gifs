@@ -1,6 +1,6 @@
 * {
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(234, 234, 234);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(240, 223, 125);
   }
   
   body {
@@ -61,4 +61,5 @@
   .card img {
     width: 100%;
   }
+ 
   
